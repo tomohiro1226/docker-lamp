@@ -1,0 +1,11 @@
+docker/mysql/volume
+*.jpg
+*.png
+
+#一時的
+wordpress/wp-content/themes/blossom-mommy-blog
+wordpress/wp-content/themes/blossom-feminine
+
+wordpress/wp-content/themes/twentynineteen
+wordpress/wp-content/themes/twentyseventeen
+wordpress/wp-content/themes/twentytwenty
